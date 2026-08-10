@@ -28,9 +28,9 @@ pip install pandas openpyxl
 ### Before
 | CSV | Excel |
 |---|---|
-| <img src="assets/dirty_data.png" width="350"> | <img src="assets/dirty_data_2.png" width="350"> |
+| <img src="assets/dirty_data.png" width="400"> | <img src="assets/dirty_data_2.png" width="400"> |
 
 ### After
 | CSV | Excel |
 |---|---|
-| <img src="assets/clean_data.png" width="350"> | <img src="assets/clean_data_2.png" width="350"> |
+| <img src="assets/clean_data.png" width="400"> | <img src="assets/clean_data_2.png" width="400"> |
