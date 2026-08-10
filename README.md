@@ -25,4 +25,14 @@ pip install pandas openpyxl
 
 ## Example
 
-Includes `dirty_data.csv` / `dirty_data.xlsx` as sample files, along with their cleaned versions, to show a before/after example.
+**Before (CSV):**
+![Dirty data CSV](assets/dirty_data.png)
+
+**Before (Excel):**
+![Dirty data Excel](assets/dirty_data_2.png)
+
+**After (CSV):**
+![Clean data CSV](assets/clean_data.png)
+
+**After (Excel):**
+![Clean data Excel](assets/clean_data_2.png)
