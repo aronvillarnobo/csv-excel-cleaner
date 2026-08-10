@@ -23,10 +23,8 @@ file_cleaner("my_dirty_file.xlsx", "my_clean_file.xlsx")
 ## Requirements
 pip install pandas openpyxl
 
-## Example
-
 **Before (CSV):**
-![Dirty data CSV](assets/dirty_data.png)
+<img src="assets/dirty_data.png" width="500">
 
 **Before (Excel):**
 ![Dirty data Excel](assets/dirty_data_2.png)
